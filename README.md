@@ -26,8 +26,9 @@
   <img src="https://img.shields.io/badge/Library-Requests-2B2A2A?style=for-the-badge&logo=requests&logoColor=white" />
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/kE6xCyOOHoxlS/giphy.gif" width="200" height="100" />
+  <img src="https://media.giphy.com/media/IZY2SE2JmPgFG/giphy.gif" width="200" height="100" />
 </p>
+
 
 <h2 align="center">Frontend</h2>
 <p align="center">
