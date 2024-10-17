@@ -77,6 +77,11 @@
 
 ## 📫 Contact Me
 <p align="center">
+  <img src="https://media.giphy.com/media/QFNRfkgLBbZNm/giphy.gif" width="200" height="200" />
+</p>
+
+
+<p align="center">
   <a href="https://www.instagram.com/jp.over.zero/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
