@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" width="200" height="100" />
 </p>
+
 ## About Me
 - 🎓 I'm Pablo Marín, Systems and Computer Engineering student.
 - 💡 Passionate about AI, ML, and full-stack development (JS & C++).
