@@ -4,6 +4,13 @@
 <p align="center">
   <img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" width="200" height="100" />
 </p>
+## About Me
+- 🎓 I'm Pablo Marín, Systems and Computer Engineering student.
+- 💡 Passionate about AI, ML, and full-stack development (JS & C++).
+- 📚 Learning Machine Learning with Python.
+- 💼 Open to collaborations on AI and web projects.
+- ⚡ Fun fact: I enjoy reading, the GYM, and playing ping pong!
+
 
 <h2 align="center">Python and Machine Learning</h2>
 <p align="center">
@@ -17,6 +24,9 @@
   <img src="https://img.shields.io/badge/Library-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/Library-Requests-2B2A2A?style=for-the-badge&logo=requests&logoColor=white" />
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/kE6xCyOOHoxlS/giphy.gif" width="200" height="100" />
+</p>
 
 <h2 align="center">Frontend</h2>
 <p align="center">
@@ -27,6 +37,9 @@
   <img src="https://img.shields.io/badge/Frontend%20Design-Figma-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Modern%20CSS-Tailwind-06B6D4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Package%20Managers-NPM-CB3837?style=for-the-badge" />
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif" width="150" height="112" />
 </p>
 
 <h2 align="center">Backend</h2>
