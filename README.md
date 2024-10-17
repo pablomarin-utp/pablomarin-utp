@@ -2,7 +2,7 @@
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Courier&color=00FF00&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi,+I'm+Pablo+Marín!;Systems+and+Computer+Engineering+Student;Passionate+about+Artificial+Intelligence;Learning+ML+with+Python;Excited+to+Learn+New+Things;FullStack+with+JS+and+Cpp+Developer" />
 </a>
 <p align="center">
-  <img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" width="200" height="100" />
+  <img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" width="300" height="150" />
 </p>
 
 ## About Me
@@ -65,4 +65,19 @@
   <img src="https://img.shields.io/badge/Web%20Security-FF5722?style=for-the-badge" />
   <img src="https://img.shields.io/badge/UML-4B8BBE?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Agile%20Development-007ACC?style=for-the-badge" />
+</p>
+## Contact Me
+<p align="center">
+  <a href="https://www.instagram.com/jp.over.zero/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/juan-pablo-marín-marín-913349296/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:juanpablomarinmarin2006@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/PMarinPy">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
