@@ -82,7 +82,7 @@
 
 
 <p align="center">
-  <a href="https://www.instagram.com/jp.over.zero/">
+  <a href="https://www.instagram.com/theredpill.exe/profilecard/?igsh=MWc1bzQ4c2Iyam9hOA==">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/juan-pablo-marín-marín-913349296/">
