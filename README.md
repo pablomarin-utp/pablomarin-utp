@@ -21,15 +21,15 @@
 
 ### Python and Machine Learning
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Library-Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Library-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Library-Matplotlib-007ACC?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Library-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Library-Scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Library-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Library-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Library-Requests-2B2A2A?style=for-the-badge&logo=requests&logoColor=white" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="45" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Numpy-Light.svg" width="45" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Pandas-Light.svg" width="45" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Matplotlib-Light.svg" width="45" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/OpenCV-Light.svg" width="45" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SciKitLearn-Light.svg" width="45" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Light.svg" width="45" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Keras-Light.svg" width="45" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Light.svg" width="45" />
 </p>
 <p align="center">
   <img src="https://media.giphy.com/media/IZY2SE2JmPgFG/giphy.gif" width="200" height="100" />
@@ -37,13 +37,13 @@
 
 ### Frontend Development
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Frontend%20Design-Figma-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Modern%20CSS-Tailwind-06B6D4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Package%20Managers-NPM-CB3837?style=for-the-badge" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="45" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="45" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="45" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" width="45" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" width="45" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Light.svg" width="45" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Light.svg" width="45" />
 </p>
 <p align="center">
   <img src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif" width="150" height="112" />
@@ -51,26 +51,28 @@
 
 ### Backend Development
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-00A86B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NestJS-EA2845?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nodejs-Light.svg" width="45" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Express-Light.svg" width="45" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" width="45" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rest-API-Light.svg" width="45" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Light.svg" width="45" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript-Light.svg" width="45" />
 </p>
 
 ### Version Control and Other Technologies
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git-Light.svg" width="45" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitHub-Light.svg" width="45" />
 </p>
 
 ### Additional Knowledge
 <p align="center">
-  <img src="https://img.shields.io/badge/Windows/Linux/Unix-4D8B31?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Web%20Security-FF5722?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UML-4B8BBE?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Agile%20Development-007ACC?style=for-the-badge" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Light.svg" width="45" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" width="45" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unix-Light.svg" width="45" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Web-Security-Light.svg" width="45" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/UML-Light.svg" width="45" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Agile-Light.svg" width="45" />
 </p>
 
 ---
@@ -80,18 +82,17 @@
   <img src="https://media.giphy.com/media/QFNRfkgLBbZNm/giphy.gif" width="200" height="200" />
 </p>
 
-
 <p align="center">
   <a href="https://www.instagram.com/theredpill.exe/profilecard/?igsh=MWc1bzQ4c2Iyam9hOA==">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram-Light.svg" width="45" />
   </a>
   <a href="https://www.linkedin.com/in/juan-pablo-marín-marín-913349296/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn-Light.svg" width="45" />
   </a>
   <a href="mailto:juanpablomarinmarin2006@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" width="45" />
   </a>
   <a href="https://github.com/PMarinPy">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitHub-Light.svg" width="45" />
   </a>
 </p>
