@@ -22,14 +22,17 @@
 ### Python and Machine Learning
 <p align="center">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="45" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Numpy-Light.svg" width="45" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Pandas-Light.svg" width="45" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Matplotlib-Light.svg" width="45" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/OpenCV-Light.svg" width="45" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SciKitLearn-Light.svg" width="45" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Light.svg" width="45" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Keras-Light.svg" width="45" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Light.svg" width="45" />
+  <br>
+  <img src="https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Library-Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Library-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Library-Matplotlib-007ACC?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Library-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Library-Requests-2B2A2A?style=for-the-badge&logo=requests&logoColor=white" />
 </p>
 <p align="center">
   <img src="https://media.giphy.com/media/IZY2SE2JmPgFG/giphy.gif" width="200" height="100" />
