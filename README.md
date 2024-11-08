@@ -51,28 +51,28 @@
 
 ### Backend Development
 <p align="center">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nodejs-Light.svg" width="45" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Express-Light.svg" width="45" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" width="45" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" width="45" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" width="45" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rest-API-Light.svg" width="45" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Light.svg" width="45" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript-Light.svg" width="45" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="45" />
 </p>
 
 ### Version Control and Other Technologies
 <p align="center">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git-Light.svg" width="45" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitHub-Light.svg" width="45" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="45" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" width="45" />
 </p>
 
 ### Additional Knowledge
 <p align="center">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Light.svg" width="45" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" width="45" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unix-Light.svg" width="45" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Web-Security-Light.svg" width="45" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/UML-Light.svg" width="45" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Agile-Light.svg" width="45" />
+  <br>
+   <img src="https://img.shields.io/badge/Web%20Security-FF5722?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UML-4B8BBE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agile%20Development-007ACC?style=for-the-badge" />
+</p>
 </p>
 
 ---
