@@ -89,7 +89,7 @@
   <a href="https://www.instagram.com/theredpill.exe/profilecard/?igsh=MWc1bzQ4c2Iyam9hOA==">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram-Light.svg" width="45" />
   </a>
-  <a href="https://www.linkedin.com/in/juan-pablo-marín-marín-913349296/">
+  <a href="https://www.linkedin.com/in/juan-pablo-marín-marín-913349296/](https://www.linkedin.com/in/juan-pablo-marin-marin-21a553319/">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn-Light.svg" width="45" />
   </a>
   <a href="mailto:juanpablomarinmarin2006@gmail.com">
