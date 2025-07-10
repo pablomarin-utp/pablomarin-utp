@@ -12,6 +12,7 @@
   <strong>💡 Passionate about:</strong> Artificial Intelligence, Machine Learning, and full-stack development (JS & C++).<br>
   <strong>📚 Currently learning:</strong> Machine Learning with Python.<br>
   <strong>💼 Open to collaborations:</strong> AI and web projects.<br>
+  <strong>🌐 Portfolio:</strong> <a href="https://pablomarinaidev.me" target="_blank">pablomarinaidev.me</a><br>
   <strong>⚡ Fun fact:</strong> I enjoy reading, hitting the gym, and playing ping pong!
 </p>
 
