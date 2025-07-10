@@ -86,16 +86,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/theredpill.exe/profilecard/?igsh=MWc1bzQ4c2Iyam9hOA==">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram-Light.svg" width="45" />
-  </a>
   <a href="https://www.linkedin.com/in/juan-pablo-marin-marin-21a553319/">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="45" />
   </a>
   <a href="mailto:juanpablomarinmarin2006@gmail.com">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" width="45" />
   </a>
-  <a href="https://github.com/PMarinPy">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitHub-Light.svg" width="45" />
+  <a href="https://github.com/pablomarin-utp">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" width="45" />
   </a>
 </p>
