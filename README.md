@@ -18,28 +18,29 @@
 
 ---
 
-<h2 align="center">🔧 Skills</h2>
+<h2 align="center">🔧 Technical Skills</h2>
 
-### Python and Machine Learning
+### 🐍 Python and Machine Learning
 <p align="center">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="45" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/OpenCV-Light.svg" width="45" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SciKitLearn-Light.svg" width="45" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Light.svg" width="45" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Light.svg" width="45" />
-  <br>
-  <img src="https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Library-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/Library-Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Library-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Library-Matplotlib-007ACC?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Library-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Library-Requests-2B2A2A?style=for-the-badge&logo=requests&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/IZY2SE2JmPgFG/giphy.gif" width="200" height="100" />
+  <img src="https://img.shields.io/badge/Requests-2B2A2A?style=for-the-badge&logo=requests&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tool-Whisper-5F5F5F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
-### Frontend Development
+### 🌐 Frontend Development
 <p align="center">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="45" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="45" />
@@ -49,12 +50,10 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Light.svg" width="45" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Light.svg" width="45" />
 </p>
-<p align="center">
-  <img src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif" width="150" height="112" />
-</p>
 
-### Backend Development
+### 🔙 Backend Development
 <p align="center">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg" width="45" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" width="45" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" width="45" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" width="45" />
@@ -62,21 +61,40 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="45" />
 </p>
 
-### Version Control and Other Technologies
 <p align="center">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="45" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" width="45" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-Powered-FF5F5F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-4A4A4A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-1A73E8?style=for-the-badge" />
 </p>
 
-### Additional Knowledge
+### ⚙️ DevOps, Automation & Tools
 <p align="center">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Light.svg" width="45" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" width="45" />
-  <br>
-   <img src="https://img.shields.io/badge/Web%20Security-FF5722?style=for-the-badge" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="45" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="45" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/n8n/n8n-original.svg" width="45" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-A300FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CI/CD-A10000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+</p>
+
+### 🧠 Other Knowledge
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electronics-BB3333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mechatronics-444444?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web%20Security-FF5722?style=for-the-badge" />
   <img src="https://img.shields.io/badge/UML-4B8BBE?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Agile%20Development-007ACC?style=for-the-badge" />
-</p>
 </p>
 
 ---
