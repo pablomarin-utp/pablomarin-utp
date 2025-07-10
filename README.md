@@ -73,7 +73,6 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="45" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="45" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/n8n/n8n-original.svg" width="45" />
 </p>
 
 <p align="center">
